@@ -1,11 +1,12 @@
 ------------------ AI Projects by abdullah291291 ----------------------------
 
-Requirements:
+Requirements (All Projects):
 > Python3
 >> pandas
 >> numpy
 >> sklearn
 >> computer-vision
+>> Librosa
 >> os
 >> glove 6-b (file)
 >> Pytorch
@@ -23,5 +24,9 @@ text of the images to convert into numpy array.
 Memes Classification 2:
 >> In this project, memes are classified on the basis of more labels (Humour,Offensive,sarcasm,Motivational,overall_sentiment).
 
+
+RUHA:
+>> RUHA is Roman Urdu Home Assistant. The voice recording's features are extracted out by Librosa mfcc. For encoding label_encoder is
+used and different Sklearn models were implemented to yield the score.
 
 -------------------------------------------------------------------------------
